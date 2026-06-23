@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "faraday-retry", "~> 2.3.1"
 gem "github-pages", "~> 232", group: :jekyll_plugins
-gem "nokogiri", "~> 1.18.7"
+gem "nokogiri", "~> 1.19.4"
 
 group :test do
   gem "fastimage"
